@@ -2,7 +2,7 @@
 
     {
         "name": "Replace Text",
-        "image": "platonam/replace-text-worker:dev",
+        "image": "platonam/replace-text-worker:latest",
         "data_cache_path": "/data_cache",
         "description": "Replace all occurrences of a text with another.",
         "configs": {
