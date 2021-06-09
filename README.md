@@ -1,4 +1,26 @@
-#### Description
+## lopco-replace-text-worker
+
+Replace all occurrences of a string inside a file.
+
+### Configuration
+
+`old_text`: Text string to replace.
+
+`new_text`: New text string.
+
+### Inputs
+
+Type: single
+
+`input_file`: File containing text.
+
+### Outputs
+
+Type: single
+
+`output_file`: Result file.
+
+### Description
 
     {
         "name": "Replace Text",
